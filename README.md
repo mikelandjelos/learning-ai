@@ -1,2 +1,2 @@
 # learning-ai
-Repo for learning AI, based on camoverride/lit repo.
+Repo for learning maths, algorithms, and programming techniques linked to the area of Artificial Intelligence.
